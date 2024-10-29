@@ -1,0 +1,22 @@
+i{ background-color: orange;
+color: white;
+width: 7%;
+height: 2%;
+}
+
+
+.pages1{
+    text-align: center;
+    width: 100%;
+}
+
+
+.pages{
+    float: left;
+width: 33.3%;
+}
+
+.page{
+    text-align: center;
+}
+
